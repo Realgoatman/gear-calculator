@@ -7,7 +7,7 @@ on the platform `Roblox`.
 
 ---
 
-To compile the code youshould be able to use any of the C compiler,
+To compile the code you should be able to use any of the C compiler,
 in this case, we will use `gcc`
 (as it is what we use to compile the program):
 
