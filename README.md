@@ -11,7 +11,7 @@ To compile the code you should be able to use any of the C compiler,
 in this case, we will use `gcc`
 (as it is what we use to compile the program):
 
-	gcc -o gear gear.c
+	gcc -o gear gear.c -lm
 and that's it, for the rest you can read inside the command, and
 watch this video:
 
